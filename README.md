@@ -1,10 +1,6 @@
 # Machine-Learning
-<h1>Machine Learning Scripts/Code using Python and R</h1>
-
-Everything in this Repository stems from the Machine Learning A-Z course taught by Kirll Eremenko/
-
+Everything in this repository stems from the Machine Learning A-Z course taught by Kirll Eremenko.
 <h2> Topics Include </h2>
-
 <ul>
 <li>Data Preprocessing</li>
 <li>Simple and Multiple Linear Regressions</li>
